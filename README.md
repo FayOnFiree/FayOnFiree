@@ -1,3 +1,5 @@
+<img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/682c02ae-ab70-47fe-b4db-03ec8ae9e5fb" />
+
 ## Hi, I'm Fanny ! 
 
 I'm a student in computer science and I mainly use Java and C# !
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="800" height="207" alt="skills" src="https://github.com/user-attachments/assets/2197f0ab-88b7-4227-bf20-0855aeaf5b7a" /><img width="800" height="160" alt="footer" src="https://github.com/user-attachments/assets/f3657d2e-7e91-468e-a879-cab73bcfc549" />
+<img width="800" height="320" alt="about" src="https://github.com/user-attachments/assets/49b4e794-6d4a-444a-aa6e-b1a45db1e9a8" />
