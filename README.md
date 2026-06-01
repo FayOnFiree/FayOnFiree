@@ -7,7 +7,7 @@
     ☆ I’m currently learning about <strong>AI-based language models.</strong> ☆<br>
     ☆ I love <strong>OOP & chatbots.</strong> ☆<br>
     ☆ I mainly use <strong>Java & C#.</strong> ☆<br>
-    ☆ Interested by <strong>I computational psychiatry & algorithm-based neuroscience research.</strong> ☆ <br>
+    ☆ Interested by <strong>computational psychiatry & algorithm-based neuroscience research.</strong> ☆ <br>
     ☆ Fun fact : <strong>I also love graphic design.</strong> ☆ <br>
   </div>
 </div>
