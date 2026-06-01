@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Fanny ! 
+
+I'm a student in computer science and I mainly use Java and C# !
 
 <!--
 **FayOnFiree/FayOnFiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
